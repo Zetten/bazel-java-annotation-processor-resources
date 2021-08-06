@@ -1,0 +1,12 @@
+{
+  "properties": [
+    {
+      "name": "com.example.old-name",
+      "type": "java.lang.String",
+      "deprecation": {
+        "level": "error",
+        "replacement": "com.example.name"
+      }
+    }
+  ]
+}
